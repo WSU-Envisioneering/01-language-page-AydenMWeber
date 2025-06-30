@@ -3,7 +3,7 @@ a {
 }
 a:hover
 {
-    text-decoration: dashed;
+    text-shadow: 1px 1px 3px #e159f3;
 }
 body {
     background-color: #c2c2c2;
@@ -33,4 +33,8 @@ nav
     background-color: #756b6a;
     padding: 6px;
     border-radius: 3px;
+}
+img
+{
+    padding:6px;
 }

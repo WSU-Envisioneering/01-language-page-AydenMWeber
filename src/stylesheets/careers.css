@@ -3,7 +3,7 @@ a {
 }
 a:hover
 {
-    text-decoration: dashed;
+    text-shadow: 1px 1px 3px #e159f3;
 }
 body {
     background-color: #c2c2c2;
