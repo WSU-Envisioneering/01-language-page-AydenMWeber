@@ -1,10 +1,26 @@
 a {
     font-size: 20px;
 }
+a:hover
+{
+    text-decoration: dashed;
+}
 body {
-    background-color: #e8c872;
+    background-color: #c2c2c2;
+    text-align: center;
+}
+ol
+{
+    text-align: left;
+    display: inline-block;
 }
 hr {
     border-top: 4px solid #8a6613;
     border-radius: 2px;
+}
+nav
+{
+    background-color: #756b6a;
+    padding: 6px;
+    border-radius: 3px;
 }
